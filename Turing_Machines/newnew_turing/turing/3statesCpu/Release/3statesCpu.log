@@ -1,0 +1,25 @@
+﻿Build started 7/08/2018 20:38:36.
+     1>Project "F:\TRAVAUXENCOURS\CHANTIER\Turing_Machines\newnew_turing\turing\3statesCpu\3statesCpu.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\3statesCpu.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         3statesCpu.vcxproj -> F:\TRAVAUXENCOURS\CHANTIER\Turing_Machines\newnew_turing\turing\Release\3statesCpu.exe
+       PostBuildEvent:
+         echo copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.5\bin\cudart*.dll" "F:\TRAVAUXENCOURS\CHANTIER\Turing_Machines\newnew_turing\turing\Release\"
+         copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.5\bin\cudart*.dll" "F:\TRAVAUXENCOURS\CHANTIER\Turing_Machines\newnew_turing\turing\Release\"
+         :VCEnd
+         copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.5\bin\cudart*.dll" "F:\TRAVAUXENCOURS\CHANTIER\Turing_Machines\newnew_turing\turing\Release\"
+         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.5\bin\cudart32_55.dll
+         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.5\bin\cudart64_55.dll
+                 2 fichier(s) copié(s).
+       FinalizeBuildStatus:
+         Deleting file "Release\3statesCpu.unsuccessfulbuild".
+         Touching "Release\3statesCpu.lastbuildstate".
+     1>Done Building Project "F:\TRAVAUXENCOURS\CHANTIER\Turing_Machines\newnew_turing\turing\3statesCpu\3statesCpu.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
