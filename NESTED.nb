@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[   3008412,      69800]
-NotebookOptionsPosition[   2984212,      69019]
-NotebookOutlinePosition[   2984558,      69034]
-CellTagsIndexPosition[   2984515,      69031]
+NotebookDataLength[   3041873,      71623]
+NotebookOptionsPosition[   3017493,      70837]
+NotebookOutlinePosition[   3017837,      70852]
+CellTagsIndexPosition[   3017794,      70849]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -23571,7 +23571,7 @@ cByOzbE5FsfimByTY3AMjs7RORpH4yAO4qj87l4Vhd+t/+/+9Db/AJM3GFY=
   Frame->False,
   FrameLabel->{None, None},
   FrameTicks->{{None, None}, {None, None}},
-  ImageSize->{51., Automatic},
+  ImageSize->{159., Automatic},
   LabelStyle->Directive[Bold],
   PlotLabel->FormBox[
     RowBox[{"{", 
@@ -29844,7 +29844,7 @@ gwkyiEADCTCAVrYC+Qv3/qjr
   Frame->False,
   FrameLabel->{None, None},
   FrameTicks->{{None, None}, {None, None}},
-  ImageSize->{59., Automatic},
+  ImageSize->{107., Automatic},
   LabelStyle->Directive[Bold],
   PlotLabel->FormBox[
     RowBox[{"{", 
@@ -57924,7 +57924,7 @@ fe7zgAc85CGPeMQZZzzmMU94wjnnXHDBU57yjGc85zkveMFLXvKKV1xyyWte
   Frame->False,
   FrameLabel->{None, None},
   FrameTicks->{{None, None}, {None, None}},
-  ImageSize->{151., Automatic},
+  ImageSize->{324., Automatic},
   LabelStyle->Directive[Bold],
   PlotLabel->FormBox[
     RowBox[{"{", 
@@ -57934,528 +57934,2346 @@ fe7zgAc85CGPeMQZZzzmMU94wjnnXHDBU57yjGc85zkveMFLXvKKV1xyyWte
    3.640544648162326*^9, 3.6405447472848997`*^9, 3.640544784880966*^9, {
    3.6405448810586977`*^9, 3.6405449546319056`*^9}, {3.6405449879058084`*^9, 
    3.640545006720885*^9}, {3.6410501873223133`*^9, 3.6410501969668655`*^9}, 
-   3.6410502434225225`*^9},
- ImageCache->GraphicsData["CompressedBitmap", "\<\
-eJztnX+sXlWZ7/e0p6etdEaIqFX5UaFKGameqTBUQCnjFHuxpEesQsexc5QW
-KlZpUXs7F71txmtLC3gKtLRUbDUxKWk0bS5OgYRMMyHXhlziiVeScyPJNEQm
-ZyJhehP+6B/8se77rL32+679890/1tp7/fi+ydvTvfa73/3stT/v8zx7r+9+
-1u1f++6mjd/62ne/cffXFn3uga9t2fSNu7+z6Nb7H+g1zf6zIAgOBsHc1xcF
-9H/WWxT/HAwYY7SS/5nkf2afZYsW0eIidvZsMCdcNZv+PMKOHDkSzGZvX3wx
-tbHje/cGs6httvShYIRamNgFX8v31bB5Fm+eE2sWq4Jm62Bvc3vnxdad7b3Z
-8t77n3/A6AVCYG8GISO996HljP3xTJKQPXzDeeznP32Kb0bvyOn8855/ZL94
-ej+g8sTed2et438XXRiwmYeWMPbOee5mRNhivbAVuZ0AiHhu7zw2NbmGsdM7
-8hABIZ7bG0YmNjNVhhCkwD7bOy+17jePr2fsteciVGbR395XIBR5am+aEMpV
-2aExxs6drULID3nLCDt5aCc7fngv/1q+ea9hNpyQ9/byePX0cp78huvonItY
-Fr2Q7XhsL3+dmWRs+kRdQpDt+GpvGKRiqIggBUfjl73pjOalJ+7m2Ux0ptng
-FEugIBX2wN40HL966kdhuhvmJQ3h+D5vGWXHfjIZuxlMCPYS4XeFGyA+OW4v
-pTDsmfFEDEJ8gr2xZPfkRCLZVUbIfxWOhnwQ+aJwidvQa/pzuCFX7J3bb6bR
-pf/cdSlj588NQlN2NEMG5IG9c2PNL+7fzNivN4EMkJEgg59qMSKtjwzcmXHI
-3pcfWxfeqYszIKMRz12Q+XpmL+Wd7GcrIq1Ui4RsFY5GuvoOHU2vjcalhBQr
-eA8cknX2Dr5JklIJSHIjE7ySv5jQW8ipgAkwKcKEn8eZKQMwQapso70JYdWQ
-yyV4G/8ISQiruifk/nB/Jw/t/BBcjg32ji3k6Uy9OzRwOc4SEt/k9b3LaFgp
-L5PpHpP7hLchh0j3pWnpcngg0+0dzlD3aLnV4zbZW05kBUL8JaSc0qp7Qjbw
-DXM1XFfw1YhU3do7L7mrpOaqGTCKIh7Gy83DhF4D4ZUVmPyDcDnZaq6PwCG1
-ZO8FWev43+biq+7jnpFdbhsixfYmVFggBIRk2CupsWwjBGNXbdmbfpJFqSrL
-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
-lg==\
-\>"]]
+   3.6410502434225225`*^9, 3.7500781639464197`*^9}]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{"Base4SEvolution", "[", 
+  RowBox[{"5", ",", "81627575424", ",", "600"}], "]"}]], "Input",
+ CellChangeTimes->{{3.750078192244869*^9, 3.7500782006688843`*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+  "4", ",", "18", ",", "3", ",", "11", ",", "12", ",", "3", ",", "4", ",", 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], ",", "18", ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "4", ",", 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], ",", "18", ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "11", ",", "12", ",", "3",
+    ",", "4", ",", 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], ",", "18", ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "11", ",", "12", ",", "3",
+    ",", "4", ",", 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 1, 0]], 
+   StyleBox["6",
+    FontColor->RGBColor[0, 1, 0]], ",", "\[IndentingNewLine]", 
+   "\[IndentingNewLine]", "18", ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "\[IndentingNewLine]", 
+   "\[IndentingNewLine]", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], ",", "3", ",", "11", ",", 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox[",",
+    FontColor->RGBColor[0, 0, 1]], 
+   StyleBox["8",
+    FontColor->RGBColor[0, 0, 1]], ",", "12", ",", 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox[",",
+    FontColor->RGBColor[1, 0.5, 0]], 
+   StyleBox["15",
+    FontColor->RGBColor[1, 0.5, 0]]}], "}"}]], "Input",
+ CellChangeTimes->{
+  3.7500782670314007`*^9, {3.7500793712637405`*^9, 3.7500793730733433`*^9}, {
+   3.7500805154643497`*^9, 3.7500805163847513`*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Length", "[", 
+  RowBox[{"{", 
+   RowBox[{
+    StyleBox["4",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["18",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["3",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["11",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["12",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["3",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["4",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["18",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["3",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["11",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["12",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["3",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["4",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["18",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["3",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["11",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["12",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["3",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["11",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox["8",
+     FontColor->RGBColor[0, 0, 1]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["12",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["15",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["3",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["11",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["12",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["3",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["4",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox["6",
+     FontColor->RGBColor[0, 1, 0]], 
+    StyleBox[",",
+     FontColor->RGBColor[1, 0.5, 0]], 
+    StyleBox["18",
+     FontColor->RGBColor[1, 0.5, 0]]}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.750078218078515*^9, 3.7500782222749224`*^9}, {
+   3.7500791246897073`*^9, 3.7500791347517247`*^9}, {3.750079176622198*^9, 
+   3.7500792327510967`*^9}, 3.75007926317115*^9, 3.7500792974444103`*^9, 
+   3.750079342091689*^9, {3.750079384320963*^9, 3.750079511585987*^9}, 
+   3.750087705737379*^9}],
+
+Cell[BoxData["80"], "Output",
+ CellChangeTimes->{
+  3.750078223866125*^9, 3.7500791369825287`*^9, {3.7500791779482007`*^9, 
+   3.7500792338430986`*^9}, 3.750079264777953*^9, 3.7500792988484135`*^9, 
+   3.7500793433864913`*^9, {3.7500793849449644`*^9, 3.7500795134579897`*^9}, 
+   3.750087706673381*^9}]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -69018,7 +70836,7 @@ Cell[BoxData[
 }, Open  ]]
 },
 WindowSize->{1534, 855},
-WindowMargins->{{155, Automatic}, {Automatic, -2}},
+WindowMargins->{{8, Automatic}, {Automatic, -3}},
 FrontEndVersion->"8.0 for Microsoft Windows (64-bit) (November 7, 2010)",
 StyleDefinitions->"Default.nb"
 ]
@@ -69085,721 +70903,726 @@ Cell[1082184, 20496, 252, 4, 31, "Input"],
 Cell[1082439, 20502, 10941, 374, 92, "Input"],
 Cell[CellGroupData[{
 Cell[1093405, 20880, 194, 4, 31, "Input"],
-Cell[1093602, 20886, 92117, 2694, 1141, "Output"]
+Cell[1093602, 20886, 92118, 2694, 3537, "Output"]
 }, Open  ]],
-Cell[1185734, 23583, 118, 2, 29, "Text"],
-Cell[1185855, 23587, 542, 16, 31, "Input"],
-Cell[1186400, 23605, 6783, 164, 212, "Input"],
+Cell[1185735, 23583, 118, 2, 29, "Text"],
+Cell[1185856, 23587, 542, 16, 31, "Input"],
+Cell[1186401, 23605, 6783, 164, 212, "Input"],
 Cell[CellGroupData[{
-Cell[1193208, 23773, 254, 4, 31, "Input"],
-Cell[1193465, 23779, 2266, 31, 69, "Output"]
+Cell[1193209, 23773, 254, 4, 31, "Input"],
+Cell[1193466, 23779, 2266, 31, 69, "Output"]
 }, Open  ]],
-Cell[1195746, 23813, 13702, 487, 92, "Input"],
+Cell[1195747, 23813, 13702, 487, 92, "Input"],
 Cell[CellGroupData[{
-Cell[1209473, 24304, 625, 16, 31, "Input"],
-Cell[1210101, 24322, 5621, 184, 88, "Output"]
+Cell[1209474, 24304, 625, 16, 31, "Input"],
+Cell[1210102, 24322, 5621, 184, 88, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1215759, 24511, 218, 4, 31, "Input"],
-Cell[1215980, 24517, 92575, 2687, 2886, "Output"]
+Cell[1215760, 24511, 218, 4, 31, "Input"],
+Cell[1215981, 24517, 92575, 2687, 2886, "Output"]
 }, Open  ]],
-Cell[1308570, 27207, 140, 2, 29, "Text"],
+Cell[1308571, 27207, 140, 2, 29, "Text"],
 Cell[CellGroupData[{
-Cell[1308735, 27213, 542, 16, 31, "Input"],
-Cell[1309280, 27231, 7297, 171, 202, "Output"]
+Cell[1308736, 27213, 542, 16, 31, "Input"],
+Cell[1309281, 27231, 7297, 171, 202, "Output"]
 }, Open  ]],
-Cell[1316592, 27405, 400, 6, 31, "Input"],
-Cell[1316995, 27413, 12454, 318, 212, "Input"],
-Cell[1329452, 27733, 12502, 318, 232, "Input"],
+Cell[1316593, 27405, 400, 6, 31, "Input"],
+Cell[1316996, 27413, 12454, 318, 212, "Input"],
+Cell[1329453, 27733, 12502, 318, 232, "Input"],
 Cell[CellGroupData[{
-Cell[1341979, 28055, 738, 11, 31, "Input"],
-Cell[1342720, 28068, 61580, 1790, 961, "Output"]
+Cell[1341980, 28055, 738, 11, 31, "Input"],
+Cell[1342721, 28068, 61581, 1790, 1731, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1404337, 29863, 1205, 34, 47, "Input"],
-Cell[1405545, 29899, 23409, 490, 582, "Output"]
+Cell[1404339, 29863, 1205, 34, 47, "Input"],
+Cell[1405547, 29899, 23409, 490, 582, "Output"]
 }, Open  ]],
-Cell[1428969, 30392, 218, 4, 31, "Input"],
-Cell[1429190, 30398, 22438, 709, 232, "Input"],
+Cell[1428971, 30392, 218, 4, 31, "Input"],
+Cell[1429192, 30398, 22438, 709, 232, "Input"],
 Cell[CellGroupData[{
-Cell[1451653, 31111, 465, 14, 31, "Input"],
-Cell[1452121, 31127, 6002, 202, 107, "Output"]
+Cell[1451655, 31111, 465, 14, 31, "Input"],
+Cell[1452123, 31127, 6002, 202, 107, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1458160, 31334, 536, 8, 31, "Input"],
-Cell[1458699, 31344, 68862, 1901, 1647, "Output"]
+Cell[1458162, 31334, 536, 8, 31, "Input"],
+Cell[1458701, 31344, 68862, 1901, 1647, "Output"]
 }, Open  ]],
-Cell[1527576, 33248, 150, 2, 72, "Input"],
-Cell[1527729, 33252, 326, 5, 31, "Input"],
-Cell[1528058, 33259, 20174, 614, 252, "Input"],
+Cell[1527578, 33248, 150, 2, 72, "Input"],
+Cell[1527731, 33252, 326, 5, 31, "Input"],
+Cell[1528060, 33259, 20174, 614, 252, "Input"],
 Cell[CellGroupData[{
-Cell[1548257, 33877, 577, 9, 31, "Input"],
-Cell[1548837, 33888, 29848, 867, 1277, "Output"]
+Cell[1548259, 33877, 577, 9, 31, "Input"],
+Cell[1548839, 33888, 29848, 867, 1277, "Output"]
 }, Open  ]],
-Cell[1578700, 34758, 150, 2, 72, "Input"],
-Cell[1578853, 34762, 24521, 677, 719, "Input"],
-Cell[1603377, 35441, 2045, 59, 72, "Input"],
+Cell[1578702, 34758, 150, 2, 72, "Input"],
+Cell[1578855, 34762, 24521, 677, 719, "Input"],
+Cell[1603379, 35441, 2045, 59, 72, "Input"],
 Cell[CellGroupData[{
-Cell[1605447, 35504, 151, 3, 31, "Input"],
-Cell[1605601, 35509, 3300, 44, 88, "Output"]
+Cell[1605449, 35504, 151, 3, 31, "Input"],
+Cell[1605603, 35509, 3300, 44, 88, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1608938, 35558, 153, 3, 31, "Input"],
-Cell[1609094, 35563, 3388, 46, 107, "Output"]
+Cell[1608940, 35558, 153, 3, 31, "Input"],
+Cell[1609096, 35563, 3388, 46, 107, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1612519, 35614, 182, 4, 31, "Input"],
-Cell[1612704, 35620, 151, 3, 30, "Output"]
+Cell[1612521, 35614, 182, 4, 31, "Input"],
+Cell[1612706, 35620, 151, 3, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1612892, 35628, 526, 13, 31, "Input"],
-Cell[1613421, 35643, 405, 10, 30, "Output"]
+Cell[1612894, 35628, 526, 13, 31, "Input"],
+Cell[1613423, 35643, 405, 10, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1613863, 35658, 3027, 62, 52, "Input"],
-Cell[1616893, 35722, 54835, 1476, 233, "Output"]
+Cell[1613865, 35658, 3027, 62, 52, "Input"],
+Cell[1616895, 35722, 54835, 1476, 233, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1671765, 37203, 311, 7, 31, "Input"],
-Cell[1672079, 37212, 275, 6, 30, "Output"]
+Cell[1671767, 37203, 311, 7, 31, "Input"],
+Cell[1672081, 37212, 275, 6, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1672391, 37223, 151, 3, 31, "Input"],
-Cell[1672545, 37228, 92, 2, 30, "Output"]
+Cell[1672393, 37223, 151, 3, 31, "Input"],
+Cell[1672547, 37228, 92, 2, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1672674, 37235, 299, 5, 31, "Input"],
-Cell[1672976, 37242, 3407, 46, 88, "Output"]
+Cell[1672676, 37235, 299, 5, 31, "Input"],
+Cell[1672978, 37242, 3407, 46, 88, "Output"]
 }, Open  ]],
-Cell[1676398, 37291, 529, 11, 31, "Input"],
-Cell[1676930, 37304, 8560, 115, 412, "Input"],
-Cell[1685493, 37421, 1007, 34, 61, "Input"],
+Cell[1676400, 37291, 529, 11, 31, "Input"],
+Cell[1676932, 37304, 8560, 115, 412, "Input"],
+Cell[1685495, 37421, 1007, 34, 61, "Input"],
 Cell[CellGroupData[{
-Cell[1686525, 37459, 2280, 67, 64, "Input"],
-Cell[1688808, 37528, 3453, 50, 88, "Output"]
+Cell[1686527, 37459, 2280, 67, 64, "Input"],
+Cell[1688810, 37528, 3453, 50, 88, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1692298, 37583, 331, 6, 31, "Input"],
-Cell[1692632, 37591, 3326, 45, 88, "Output"]
+Cell[1692300, 37583, 331, 6, 31, "Input"],
+Cell[1692634, 37591, 3326, 45, 88, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1695995, 37641, 6643, 91, 212, "Input"],
-Cell[1702641, 37734, 95, 1, 30, "Output"]
+Cell[1695997, 37641, 6643, 91, 212, "Input"],
+Cell[1702643, 37734, 95, 1, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1702773, 37740, 332, 9, 53, "Input"],
-Cell[1703108, 37751, 301, 9, 53, "Output"]
+Cell[1702775, 37740, 332, 9, 53, "Input"],
+Cell[1703110, 37751, 301, 9, 53, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1703446, 37765, 123, 2, 31, "Input"],
-Cell[1703572, 37769, 114, 1, 30, "Output"]
+Cell[1703448, 37765, 123, 2, 31, "Input"],
+Cell[1703574, 37769, 114, 1, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1703723, 37775, 548, 16, 31, "Input"],
-Cell[1704274, 37793, 1389, 21, 69, "Output"]
+Cell[1703725, 37775, 548, 16, 31, "Input"],
+Cell[1704276, 37793, 1389, 21, 69, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1705700, 37819, 562, 15, 31, "Input"],
-Cell[1706265, 37836, 1435, 21, 69, "Output"]
+Cell[1705702, 37819, 562, 15, 31, "Input"],
+Cell[1706267, 37836, 1435, 21, 69, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1707737, 37862, 293, 8, 31, "Input"],
-Cell[1708033, 37872, 1176, 17, 50, "Output"]
+Cell[1707739, 37862, 293, 8, 31, "Input"],
+Cell[1708035, 37872, 1176, 17, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1709246, 37894, 131, 2, 31, "Input"],
-Cell[1709380, 37898, 1140, 17, 50, "Output"]
+Cell[1709248, 37894, 131, 2, 31, "Input"],
+Cell[1709382, 37898, 1140, 17, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1710557, 37920, 374, 10, 31, "Input"],
-Cell[1710934, 37932, 1205, 18, 50, "Output"]
+Cell[1710559, 37920, 374, 10, 31, "Input"],
+Cell[1710936, 37932, 1205, 18, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1712176, 37955, 1425, 21, 72, "Input"],
-Cell[1713604, 37978, 1400, 21, 69, "Output"]
+Cell[1712178, 37955, 1425, 21, 72, "Input"],
+Cell[1713606, 37978, 1400, 21, 69, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1715041, 38004, 743, 20, 31, "Input"],
-Cell[1715787, 38026, 3677, 65, 228, "Output"]
+Cell[1715043, 38004, 743, 20, 31, "Input"],
+Cell[1715789, 38026, 3677, 65, 228, "Output"]
 }, Open  ]],
-Cell[1719479, 38094, 675, 18, 31, "Input"],
+Cell[1719481, 38094, 675, 18, 31, "Input"],
 Cell[CellGroupData[{
-Cell[1720179, 38116, 1103, 33, 33, "Input"],
-Cell[1721285, 38151, 969, 15, 50, "Output"]
+Cell[1720181, 38116, 1103, 33, 33, "Input"],
+Cell[1721287, 38151, 969, 15, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1722291, 38171, 1201, 34, 33, "Input"],
-Cell[1723495, 38207, 27491, 529, 3852, "Output"]
+Cell[1722293, 38171, 1201, 34, 33, "Input"],
+Cell[1723497, 38207, 27491, 529, 3852, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1751023, 38741, 1082, 32, 33, "Input"],
-Cell[1752108, 38775, 2569, 37, 107, "Output"]
+Cell[1751025, 38741, 1082, 32, 33, "Input"],
+Cell[1752110, 38775, 2569, 37, 107, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1754714, 38817, 463, 14, 31, "Input"],
-Cell[1755180, 38833, 152, 3, 30, "Output"]
+Cell[1754716, 38817, 463, 14, 31, "Input"],
+Cell[1755182, 38833, 152, 3, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1755369, 38841, 340, 10, 31, "Input"],
-Cell[1755712, 38853, 285, 9, 56, "Output"]
+Cell[1755371, 38841, 340, 10, 31, "Input"],
+Cell[1755714, 38853, 285, 9, 56, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1756034, 38867, 456, 12, 31, "Input"],
-Cell[1756493, 38881, 890, 19, 246, "Output"]
+Cell[1756036, 38867, 456, 12, 31, "Input"],
+Cell[1756495, 38881, 890, 19, 246, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1757420, 38905, 582, 17, 31, "Input"],
-Cell[1758005, 38924, 1040, 22, 242, "Output"]
+Cell[1757422, 38905, 582, 17, 31, "Input"],
+Cell[1758007, 38924, 1040, 22, 242, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1759082, 38951, 361, 9, 31, "Input"],
-Cell[1759446, 38962, 4437, 61, 183, "Output"]
+Cell[1759084, 38951, 361, 9, 31, "Input"],
+Cell[1759448, 38962, 4437, 61, 183, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1763920, 39028, 606, 19, 31, "Input"],
-Cell[1764529, 39049, 1024, 16, 50, "Output"]
+Cell[1763922, 39028, 606, 19, 31, "Input"],
+Cell[1764531, 39049, 1024, 16, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1765590, 39070, 994, 33, 31, "Input"],
-Cell[1766587, 39105, 840, 13, 50, "Output"]
+Cell[1765592, 39070, 994, 33, 31, "Input"],
+Cell[1766589, 39105, 840, 13, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1767464, 39123, 656, 21, 31, "Input"],
-Cell[1768123, 39146, 862, 13, 50, "Output"]
+Cell[1767466, 39123, 656, 21, 31, "Input"],
+Cell[1768125, 39146, 862, 13, 50, "Output"]
 }, Open  ]],
-Cell[1769000, 39162, 456, 16, 31, "Input"],
+Cell[1769002, 39162, 456, 16, 31, "Input"],
 Cell[CellGroupData[{
-Cell[1769481, 39182, 135, 2, 31, "Input"],
-Cell[1769619, 39186, 3721, 52, 126, "Output"]
+Cell[1769483, 39182, 135, 2, 31, "Input"],
+Cell[1769621, 39186, 3721, 52, 126, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1773377, 39243, 348, 10, 31, "Input"],
-Cell[1773728, 39255, 917, 15, 50, "Output"]
+Cell[1773379, 39243, 348, 10, 31, "Input"],
+Cell[1773730, 39255, 917, 15, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1774682, 39275, 388, 10, 31, "Input"],
-Cell[1775073, 39287, 2239, 32, 107, "Output"]
+Cell[1774684, 39275, 388, 10, 31, "Input"],
+Cell[1775075, 39287, 2239, 32, 107, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1777349, 39324, 482, 15, 31, "Input"],
-Cell[1777834, 39341, 1187, 34, 30, "Output"]
+Cell[1777351, 39324, 482, 15, 31, "Input"],
+Cell[1777836, 39341, 1187, 34, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1779058, 39380, 765, 17, 31, "Input"],
-Cell[1779826, 39399, 392, 9, 30, "Output"]
+Cell[1779060, 39380, 765, 17, 31, "Input"],
+Cell[1779828, 39399, 392, 9, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1780255, 39413, 578, 17, 31, "Input"],
-Cell[1780836, 39432, 351, 7, 30, "Output"]
+Cell[1780257, 39413, 578, 17, 31, "Input"],
+Cell[1780838, 39432, 351, 7, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1781224, 39444, 110, 2, 31, "Input"],
-Cell[1781337, 39448, 1935, 28, 69, "Output"]
+Cell[1781226, 39444, 110, 2, 31, "Input"],
+Cell[1781339, 39448, 1935, 28, 69, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1783309, 39481, 359, 10, 31, "Input"],
-Cell[1783671, 39493, 840, 13, 50, "Output"]
+Cell[1783311, 39481, 359, 10, 31, "Input"],
+Cell[1783673, 39493, 840, 13, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1784548, 39511, 405, 10, 31, "Input"],
-Cell[1784956, 39523, 1167, 17, 69, "Output"]
+Cell[1784550, 39511, 405, 10, 31, "Input"],
+Cell[1784958, 39523, 1167, 17, 69, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1786160, 39545, 110, 2, 31, "Input"],
-Cell[1786273, 39549, 989, 15, 50, "Output"]
+Cell[1786162, 39545, 110, 2, 31, "Input"],
+Cell[1786275, 39549, 989, 15, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1787299, 39569, 359, 10, 31, "Input"],
-Cell[1787661, 39581, 862, 13, 50, "Output"]
+Cell[1787301, 39569, 359, 10, 31, "Input"],
+Cell[1787663, 39581, 862, 13, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1788560, 39599, 434, 11, 31, "Input"],
-Cell[1788997, 39612, 623, 11, 50, "Output"]
+Cell[1788562, 39599, 434, 11, 31, "Input"],
+Cell[1788999, 39612, 623, 11, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1789657, 39628, 110, 2, 31, "Input"],
-Cell[1789770, 39632, 577, 10, 30, "Output"]
+Cell[1789659, 39628, 110, 2, 31, "Input"],
+Cell[1789772, 39632, 577, 10, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1790384, 39647, 362, 10, 31, "Input"],
-Cell[1790749, 39659, 928, 14, 50, "Output"]
+Cell[1790386, 39647, 362, 10, 31, "Input"],
+Cell[1790751, 39659, 928, 14, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1791714, 39678, 577, 13, 31, "Input"],
-Cell[1792294, 39693, 281, 6, 30, "Output"]
+Cell[1791716, 39678, 577, 13, 31, "Input"],
+Cell[1792296, 39693, 281, 6, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1792612, 39704, 643, 13, 31, "Input"],
-Cell[1793258, 39719, 267, 6, 30, "Output"]
+Cell[1792614, 39704, 643, 13, 31, "Input"],
+Cell[1793260, 39719, 267, 6, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1793562, 39730, 577, 11, 31, "Input"],
-Cell[1794142, 39743, 392, 9, 30, "Output"]
+Cell[1793564, 39730, 577, 11, 31, "Input"],
+Cell[1794144, 39743, 392, 9, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1794571, 39757, 328, 10, 33, "Input"],
-Cell[1794902, 39769, 219, 5, 30, "Output"]
+Cell[1794573, 39757, 328, 10, 33, "Input"],
+Cell[1794904, 39769, 219, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1795158, 39779, 349, 11, 33, "Input"],
-Cell[1795510, 39792, 246, 8, 33, "Output"]
+Cell[1795160, 39779, 349, 11, 33, "Input"],
+Cell[1795512, 39792, 246, 8, 33, "Output"]
 }, Open  ]],
-Cell[1795771, 39803, 675, 18, 31, "Input"],
+Cell[1795773, 39803, 675, 18, 31, "Input"],
 Cell[CellGroupData[{
-Cell[1796471, 39825, 255, 7, 31, "Input"],
-Cell[1796729, 39834, 2253, 31, 69, "Output"]
+Cell[1796473, 39825, 255, 7, 31, "Input"],
+Cell[1796731, 39834, 2253, 31, 69, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1799019, 39870, 296, 8, 31, "Input"],
-Cell[1799318, 39880, 3642, 103, 88, "Output"]
+Cell[1799021, 39870, 296, 8, 31, "Input"],
+Cell[1799320, 39880, 3642, 103, 88, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1802997, 39988, 270, 8, 31, "Input"],
-Cell[1803270, 39998, 1870, 53, 50, "Output"]
+Cell[1802999, 39988, 270, 8, 31, "Input"],
+Cell[1803272, 39998, 1870, 53, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1805177, 40056, 272, 8, 31, "Input"],
-Cell[1805452, 40066, 982, 28, 30, "Output"]
+Cell[1805179, 40056, 272, 8, 31, "Input"],
+Cell[1805454, 40066, 982, 28, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1806471, 40099, 272, 8, 31, "Input"],
-Cell[1806746, 40109, 558, 16, 30, "Output"]
+Cell[1806473, 40099, 272, 8, 31, "Input"],
+Cell[1806748, 40109, 558, 16, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1807341, 40130, 268, 7, 31, "Input"],
-Cell[1807612, 40139, 890, 14, 50, "Output"]
+Cell[1807343, 40130, 268, 7, 31, "Input"],
+Cell[1807614, 40139, 890, 14, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1808539, 40158, 504, 15, 31, "Input"],
-Cell[1809046, 40175, 941, 15, 50, "Output"]
+Cell[1808541, 40158, 504, 15, 31, "Input"],
+Cell[1809048, 40175, 941, 15, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1810024, 40195, 682, 20, 31, "Input"],
-Cell[1810709, 40217, 894, 14, 50, "Output"]
+Cell[1810026, 40195, 682, 20, 31, "Input"],
+Cell[1810711, 40217, 894, 14, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1811640, 40236, 259, 7, 31, "Input"],
-Cell[1811902, 40245, 215, 5, 56, "Output"]
+Cell[1811642, 40236, 259, 7, 31, "Input"],
+Cell[1811904, 40245, 215, 5, 56, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1812154, 40255, 336, 8, 31, "Input"],
-Cell[1812493, 40265, 1015, 16, 30, "Output"]
+Cell[1812156, 40255, 336, 8, 31, "Input"],
+Cell[1812495, 40265, 1015, 16, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1813545, 40286, 882, 24, 33, "Input"],
-Cell[1814430, 40312, 1099, 17, 50, "Output"]
+Cell[1813547, 40286, 882, 24, 33, "Input"],
+Cell[1814432, 40312, 1099, 17, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1815566, 40334, 287, 8, 33, "Input"],
-Cell[1815856, 40344, 222, 5, 30, "Output"]
+Cell[1815568, 40334, 287, 8, 33, "Input"],
+Cell[1815858, 40344, 222, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1816115, 40354, 312, 9, 33, "Input"],
-Cell[1816430, 40365, 199, 5, 30, "Output"]
+Cell[1816117, 40354, 312, 9, 33, "Input"],
+Cell[1816432, 40365, 199, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1816666, 40375, 288, 9, 33, "Input"],
-Cell[1816957, 40386, 197, 5, 30, "Output"]
+Cell[1816668, 40375, 288, 9, 33, "Input"],
+Cell[1816959, 40386, 197, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1817191, 40396, 288, 9, 33, "Input"],
-Cell[1817482, 40407, 197, 5, 30, "Output"]
+Cell[1817193, 40396, 288, 9, 33, "Input"],
+Cell[1817484, 40407, 197, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1817716, 40417, 539, 13, 33, "Input"],
-Cell[1818258, 40432, 320, 8, 30, "Output"]
+Cell[1817718, 40417, 539, 13, 33, "Input"],
+Cell[1818260, 40432, 320, 8, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1818615, 40445, 477, 12, 33, "Input"],
-Cell[1819095, 40459, 241, 7, 30, "Output"]
+Cell[1818617, 40445, 477, 12, 33, "Input"],
+Cell[1819097, 40459, 241, 7, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1819373, 40471, 487, 14, 33, "Input"],
-Cell[1819863, 40487, 271, 8, 30, "Output"]
+Cell[1819375, 40471, 487, 14, 33, "Input"],
+Cell[1819865, 40487, 271, 8, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1820171, 40500, 511, 14, 33, "Input"],
-Cell[1820685, 40516, 267, 8, 30, "Output"]
+Cell[1820173, 40500, 511, 14, 33, "Input"],
+Cell[1820687, 40516, 267, 8, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1820989, 40529, 492, 14, 33, "Input"],
-Cell[1821484, 40545, 296, 8, 30, "Output"]
+Cell[1820991, 40529, 492, 14, 33, "Input"],
+Cell[1821486, 40545, 296, 8, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1821817, 40558, 387, 12, 33, "Input"],
-Cell[1822207, 40572, 192, 6, 30, "Output"]
+Cell[1821819, 40558, 387, 12, 33, "Input"],
+Cell[1822209, 40572, 192, 6, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1822436, 40583, 387, 12, 33, "Input"],
-Cell[1822826, 40597, 194, 6, 30, "Output"]
+Cell[1822438, 40583, 387, 12, 33, "Input"],
+Cell[1822828, 40597, 194, 6, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1823057, 40608, 531, 15, 33, "Input"],
-Cell[1823591, 40625, 816, 22, 34, "Output"]
+Cell[1823059, 40608, 531, 15, 33, "Input"],
+Cell[1823593, 40625, 816, 22, 34, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1824444, 40652, 602, 17, 31, "Input"],
-Cell[1825049, 40671, 279, 8, 33, "Output"]
+Cell[1824446, 40652, 602, 17, 31, "Input"],
+Cell[1825051, 40671, 279, 8, 33, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1825365, 40684, 275, 8, 33, "Input"],
-Cell[1825643, 40694, 197, 5, 30, "Output"]
+Cell[1825367, 40684, 275, 8, 33, "Input"],
+Cell[1825645, 40694, 197, 5, 30, "Output"]
 }, Open  ]],
-Cell[1825855, 40702, 352, 7, 31, "Input"],
+Cell[1825857, 40702, 352, 7, 31, "Input"],
 Cell[CellGroupData[{
-Cell[1826232, 40713, 4666, 64, 252, "Input"],
-Cell[1830901, 40779, 4505, 62, 221, "Output"]
+Cell[1826234, 40713, 4666, 64, 252, "Input"],
+Cell[1830903, 40779, 4505, 62, 221, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1835443, 40846, 834, 14, 52, "Input"],
-Cell[1836280, 40862, 650, 11, 50, "Output"]
+Cell[1835445, 40846, 834, 14, 52, "Input"],
+Cell[1836282, 40862, 650, 11, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1836967, 40878, 559, 10, 31, "Input"],
-Cell[1837529, 40890, 379, 7, 30, "Output"]
+Cell[1836969, 40878, 559, 10, 31, "Input"],
+Cell[1837531, 40890, 379, 7, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1837945, 40902, 474, 10, 31, "Input"],
-Cell[1838422, 40914, 263, 5, 30, "Output"]
+Cell[1837947, 40902, 474, 10, 31, "Input"],
+Cell[1838424, 40914, 263, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1838722, 40924, 217, 5, 31, "Input"],
-Cell[1838942, 40931, 166, 4, 30, "Output"]
+Cell[1838724, 40924, 217, 5, 31, "Input"],
+Cell[1838944, 40931, 166, 4, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1839145, 40940, 302, 6, 31, "Input"],
-Cell[1839450, 40948, 195, 4, 30, "Output"]
+Cell[1839147, 40940, 302, 6, 31, "Input"],
+Cell[1839452, 40948, 195, 4, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1839682, 40957, 251, 5, 31, "Input"],
-Cell[1839936, 40964, 170, 4, 30, "Output"]
+Cell[1839684, 40957, 251, 5, 31, "Input"],
+Cell[1839938, 40964, 170, 4, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1840143, 40973, 220, 4, 31, "Input"],
-Cell[1840366, 40979, 145, 3, 30, "Output"]
+Cell[1840145, 40973, 220, 4, 31, "Input"],
+Cell[1840368, 40979, 145, 3, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1840548, 40987, 151, 3, 31, "Input"],
-Cell[1840702, 40992, 72, 1, 30, "Output"]
+Cell[1840550, 40987, 151, 3, 31, "Input"],
+Cell[1840704, 40992, 72, 1, 30, "Output"]
 }, Open  ]],
-Cell[1840789, 40996, 366, 7, 31, "Input"],
-Cell[1841158, 41005, 1474, 22, 72, "Input"],
+Cell[1840791, 40996, 366, 7, 31, "Input"],
+Cell[1841160, 41005, 1474, 22, 72, "Input"],
 Cell[CellGroupData[{
-Cell[1842657, 41031, 176, 3, 31, "Input"],
-Cell[1842836, 41036, 1150, 17, 50, "Output"]
+Cell[1842659, 41031, 176, 3, 31, "Input"],
+Cell[1842838, 41036, 1150, 17, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1844023, 41058, 1020, 33, 61, "Input"],
-Cell[1845046, 41093, 1235, 20, 50, "Output"]
+Cell[1844025, 41058, 1020, 33, 61, "Input"],
+Cell[1845048, 41093, 1235, 20, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1846318, 41118, 1284, 39, 63, "Input"],
-Cell[1847605, 41159, 1224, 42, 47, "Output"]
+Cell[1846320, 41118, 1284, 39, 63, "Input"],
+Cell[1847607, 41159, 1224, 42, 47, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1848866, 41206, 1430, 46, 55, "Input"],
-Cell[1850299, 41254, 1235, 20, 50, "Output"]
+Cell[1848868, 41206, 1430, 46, 55, "Input"],
+Cell[1850301, 41254, 1235, 20, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1851571, 41279, 1195, 39, 55, "Input"],
-Cell[1852769, 41320, 1235, 20, 50, "Output"]
+Cell[1851573, 41279, 1195, 39, 55, "Input"],
+Cell[1852771, 41320, 1235, 20, 50, "Output"]
 }, Open  ]],
-Cell[1854019, 41343, 457, 13, 55, "Input"],
+Cell[1854021, 41343, 457, 13, 55, "Input"],
 Cell[CellGroupData[{
-Cell[1854501, 41360, 849, 24, 31, "Input"],
-Cell[1855353, 41386, 1267, 27, 155, "Output"]
+Cell[1854503, 41360, 849, 24, 31, "Input"],
+Cell[1855355, 41386, 1267, 27, 155, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1856657, 41418, 1035, 31, 31, "Input"],
-Cell[1857695, 41451, 339, 6, 47, "Output"]
+Cell[1856659, 41418, 1035, 31, 31, "Input"],
+Cell[1857697, 41451, 339, 6, 47, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1858071, 41462, 1220, 35, 31, "Input"],
-Cell[1859294, 41499, 1308, 21, 50, "Output"]
+Cell[1858073, 41462, 1220, 35, 31, "Input"],
+Cell[1859296, 41499, 1308, 21, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1860639, 41525, 694, 16, 31, "Input"],
-Cell[1861336, 41543, 31208, 896, 607, "Output"]
+Cell[1860641, 41525, 694, 16, 31, "Input"],
+Cell[1861338, 41543, 31208, 896, 607, "Output"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1892593, 42445, 224, 4, 49, "Subtitle"],
+Cell[1892595, 42445, 224, 4, 49, "Subtitle"],
 Cell[CellGroupData[{
-Cell[1892842, 42453, 166, 3, 31, "Input"],
-Cell[1893011, 42458, 14945, 449, 447, "Output"]
+Cell[1892844, 42453, 166, 3, 31, "Input"],
+Cell[1893013, 42458, 14945, 449, 447, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1907993, 42912, 178, 3, 31, "Input"],
-Cell[1908174, 42917, 1202, 18, 50, "Output"]
+Cell[1907995, 42912, 178, 3, 31, "Input"],
+Cell[1908176, 42917, 1202, 18, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1909413, 42940, 239, 7, 53, "Input"],
-Cell[1909655, 42949, 186, 6, 30, "Output"]
+Cell[1909415, 42940, 239, 7, 53, "Input"],
+Cell[1909657, 42949, 186, 6, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1909878, 42960, 1075, 35, 61, "Input"],
-Cell[1910956, 42997, 1298, 21, 50, "Output"]
+Cell[1909880, 42960, 1075, 35, 61, "Input"],
+Cell[1910958, 42997, 1298, 21, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1912291, 43023, 1219, 38, 56, "Input"],
-Cell[1913513, 43063, 1364, 48, 65, "Output"]
+Cell[1912293, 43023, 1219, 38, 56, "Input"],
+Cell[1913515, 43063, 1364, 48, 65, "Output"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1914926, 43117, 142, 3, 49, "Subtitle"],
+Cell[1914928, 43117, 142, 3, 49, "Subtitle"],
 Cell[CellGroupData[{
-Cell[1915093, 43124, 233, 4, 31, "Input"],
-Cell[1915329, 43130, 5575, 74, 164, "Output"]
+Cell[1915095, 43124, 233, 4, 31, "Input"],
+Cell[1915331, 43130, 5575, 74, 164, "Output"]
 }, Open  ]],
-Cell[1920919, 43207, 89, 1, 52, "Input"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[1921045, 43213, 150, 3, 49, "Subtitle"],
-Cell[1921198, 43218, 277, 6, 31, "Input"],
-Cell[1921478, 43226, 619, 17, 47, "Text"],
-Cell[CellGroupData[{
-Cell[1922122, 43247, 300, 7, 31, "Input"],
-Cell[1922425, 43256, 17230, 231, 715, "Output"]
+Cell[1920921, 43207, 89, 1, 52, "Input"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1939692, 43492, 1010, 20, 31, "Input"],
-Cell[1940705, 43514, 1347, 26, 490, "Output"]
+Cell[1921047, 43213, 150, 3, 49, "Subtitle"],
+Cell[1921200, 43218, 277, 6, 31, "Input"],
+Cell[1921480, 43226, 619, 17, 47, "Text"],
+Cell[CellGroupData[{
+Cell[1922124, 43247, 300, 7, 31, "Input"],
+Cell[1922427, 43256, 17230, 231, 715, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1942089, 43545, 846, 18, 31, "Input"],
-Cell[1942938, 43565, 800, 17, 245, "Output"]
+Cell[1939694, 43492, 1010, 20, 31, "Input"],
+Cell[1940707, 43514, 1347, 26, 490, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1943775, 43587, 467, 12, 31, "Input"],
-Cell[1944245, 43601, 289, 7, 30, "Output"]
+Cell[1942091, 43545, 846, 18, 31, "Input"],
+Cell[1942940, 43565, 800, 17, 245, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1944571, 43613, 382, 11, 31, "Input"],
-Cell[1944956, 43626, 260, 6, 30, "Output"]
+Cell[1943777, 43587, 467, 12, 31, "Input"],
+Cell[1944247, 43601, 289, 7, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1945253, 43637, 359, 10, 31, "Input"],
-Cell[1945615, 43649, 236, 5, 30, "Output"]
+Cell[1944573, 43613, 382, 11, 31, "Input"],
+Cell[1944958, 43626, 260, 6, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1945888, 43659, 386, 11, 31, "Input"],
-Cell[1946277, 43672, 238, 5, 30, "Output"]
+Cell[1945255, 43637, 359, 10, 31, "Input"],
+Cell[1945617, 43649, 236, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1946552, 43682, 632, 18, 31, "Input"],
-Cell[1947187, 43702, 709, 12, 30, "Output"]
+Cell[1945890, 43659, 386, 11, 31, "Input"],
+Cell[1946279, 43672, 238, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1947933, 43719, 520, 11, 31, "Input"],
-Cell[1948456, 43732, 24729, 631, 430, "Output"]
+Cell[1946554, 43682, 632, 18, 31, "Input"],
+Cell[1947189, 43702, 709, 12, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1973222, 44368, 258, 7, 31, "Input"],
-Cell[1973483, 44377, 4318, 59, 183, "Output"]
+Cell[1947935, 43719, 520, 11, 31, "Input"],
+Cell[1948458, 43732, 24729, 631, 430, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1977838, 44441, 676, 20, 31, "Input"],
-Cell[1978517, 44463, 186, 5, 30, "Output"]
+Cell[1973224, 44368, 258, 7, 31, "Input"],
+Cell[1973485, 44377, 4318, 59, 183, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1978740, 44473, 1026, 25, 31, "Input"],
-Cell[1979769, 44500, 361, 8, 30, "Output"]
+Cell[1977840, 44441, 676, 20, 31, "Input"],
+Cell[1978519, 44463, 186, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1980167, 44513, 267, 6, 31, "Input"],
-Cell[1980437, 44521, 193, 6, 30, "Output"]
-}, Open  ]],
-Cell[1980645, 44530, 144, 3, 31, "Input"],
-Cell[CellGroupData[{
-Cell[1980814, 44537, 553, 17, 33, "Input"],
-Cell[1981370, 44556, 720, 25, 30, "Output"]
+Cell[1978742, 44473, 1026, 25, 31, "Input"],
+Cell[1979771, 44500, 361, 8, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1982127, 44586, 297, 8, 31, "Input"],
-Cell[1982427, 44596, 3721, 52, 126, "Output"]
+Cell[1980169, 44513, 267, 6, 31, "Input"],
+Cell[1980439, 44521, 193, 6, 30, "Output"]
+}, Open  ]],
+Cell[1980647, 44530, 144, 3, 31, "Input"],
+Cell[CellGroupData[{
+Cell[1980816, 44537, 553, 17, 33, "Input"],
+Cell[1981372, 44556, 720, 25, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1986185, 44653, 328, 9, 31, "Input"],
-Cell[1986516, 44664, 6168, 158, 126, "Output"]
+Cell[1982129, 44586, 297, 8, 31, "Input"],
+Cell[1982429, 44596, 3721, 52, 126, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1992721, 44827, 256, 7, 31, "Input"],
-Cell[1992980, 44836, 2215, 32, 107, "Output"]
+Cell[1986187, 44653, 328, 9, 31, "Input"],
+Cell[1986518, 44664, 6168, 158, 126, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1995232, 44873, 300, 8, 31, "Input"],
-Cell[1995535, 44883, 1911, 28, 69, "Output"]
+Cell[1992723, 44827, 256, 7, 31, "Input"],
+Cell[1992982, 44836, 2215, 32, 107, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1997483, 44916, 326, 9, 31, "Input"],
-Cell[1997812, 44927, 3140, 80, 69, "Output"]
+Cell[1995234, 44873, 300, 8, 31, "Input"],
+Cell[1995537, 44883, 1911, 28, 69, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2000989, 45012, 268, 7, 31, "Input"],
-Cell[2001260, 45021, 1148, 17, 69, "Output"]
+Cell[1997485, 44916, 326, 9, 31, "Input"],
+Cell[1997814, 44927, 3140, 80, 69, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2002445, 45043, 307, 8, 31, "Input"],
-Cell[2002755, 45053, 991, 15, 50, "Output"]
+Cell[2000991, 45012, 268, 7, 31, "Input"],
+Cell[2001262, 45021, 1148, 17, 69, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2003783, 45073, 340, 9, 31, "Input"],
-Cell[2004126, 45084, 1581, 41, 50, "Output"]
+Cell[2002447, 45043, 307, 8, 31, "Input"],
+Cell[2002757, 45053, 991, 15, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2005744, 45130, 277, 7, 31, "Input"],
-Cell[2006024, 45139, 625, 11, 50, "Output"]
+Cell[2003785, 45073, 340, 9, 31, "Input"],
+Cell[2004128, 45084, 1581, 41, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2006686, 45155, 297, 8, 31, "Input"],
-Cell[2006986, 45165, 366, 7, 30, "Output"]
+Cell[2005746, 45130, 277, 7, 31, "Input"],
+Cell[2006026, 45139, 625, 11, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2007389, 45177, 339, 9, 31, "Input"],
-Cell[2007731, 45188, 340, 7, 30, "Output"]
+Cell[2006688, 45155, 297, 8, 31, "Input"],
+Cell[2006988, 45165, 366, 7, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2008108, 45200, 367, 10, 31, "Input"],
-Cell[2008478, 45212, 446, 12, 30, "Output"]
+Cell[2007391, 45177, 339, 9, 31, "Input"],
+Cell[2007733, 45188, 340, 7, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2008961, 45229, 308, 8, 31, "Input"],
-Cell[2009272, 45239, 232, 5, 30, "Output"]
+Cell[2008110, 45200, 367, 10, 31, "Input"],
+Cell[2008480, 45212, 446, 12, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2009541, 45249, 19709, 477, 372, "Input"],
-Cell[2029253, 45728, 171, 2, 30, "Output"]
+Cell[2008963, 45229, 308, 8, 31, "Input"],
+Cell[2009274, 45239, 232, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2029461, 45735, 6409, 160, 132, "Input"],
-Cell[2035873, 45897, 96, 1, 30, "Output"]
-}, Open  ]],
-Cell[2035984, 45901, 13001, 317, 252, "Input"],
-Cell[CellGroupData[{
-Cell[2049010, 46222, 311, 9, 31, "Input"],
-Cell[2049324, 46233, 3302, 44, 88, "Output"]
+Cell[2009543, 45249, 19709, 477, 372, "Input"],
+Cell[2029255, 45728, 171, 2, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2052663, 46282, 443, 12, 31, "Input"],
-Cell[2053109, 46296, 3422, 47, 107, "Output"]
+Cell[2029463, 45735, 6409, 160, 132, "Input"],
+Cell[2035875, 45897, 96, 1, 30, "Output"]
+}, Open  ]],
+Cell[2035986, 45901, 13001, 317, 252, "Input"],
+Cell[CellGroupData[{
+Cell[2049012, 46222, 311, 9, 31, "Input"],
+Cell[2049326, 46233, 3302, 44, 88, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2056568, 46348, 523, 15, 33, "Input"],
-Cell[2057094, 46365, 172, 3, 30, "Output"]
+Cell[2052665, 46282, 443, 12, 31, "Input"],
+Cell[2053111, 46296, 3422, 47, 107, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2057303, 46373, 598, 13, 31, "Input"],
-Cell[2057904, 46388, 502, 11, 30, "Output"]
+Cell[2056570, 46348, 523, 15, 33, "Input"],
+Cell[2057096, 46365, 172, 3, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2058443, 46404, 180, 4, 31, "Input"],
-Cell[2058626, 46410, 97, 1, 30, "Output"]
-}, Open  ]],
-Cell[2058738, 46414, 601, 17, 31, "Input"],
-Cell[CellGroupData[{
-Cell[2059364, 46435, 202, 5, 31, "Input"],
-Cell[2059569, 46442, 136, 4, 30, "Output"]
+Cell[2057305, 46373, 598, 13, 31, "Input"],
+Cell[2057906, 46388, 502, 11, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2059742, 46451, 302, 7, 31, "Input"],
-Cell[2060047, 46460, 1145, 29, 30, "Output"]
+Cell[2058445, 46404, 180, 4, 31, "Input"],
+Cell[2058628, 46410, 97, 1, 30, "Output"]
+}, Open  ]],
+Cell[2058740, 46414, 601, 17, 31, "Input"],
+Cell[CellGroupData[{
+Cell[2059366, 46435, 202, 5, 31, "Input"],
+Cell[2059571, 46442, 136, 4, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2061229, 46494, 274, 7, 31, "Input"],
-Cell[2061506, 46503, 157, 4, 30, "Output"]
+Cell[2059744, 46451, 302, 7, 31, "Input"],
+Cell[2060049, 46460, 1145, 29, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2061700, 46512, 248, 7, 31, "Input"],
-Cell[2061951, 46521, 135, 4, 30, "Output"]
+Cell[2061231, 46494, 274, 7, 31, "Input"],
+Cell[2061508, 46503, 157, 4, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2062123, 46530, 408, 11, 31, "Input"],
-Cell[2062534, 46543, 577, 21, 30, "Output"]
+Cell[2061702, 46512, 248, 7, 31, "Input"],
+Cell[2061953, 46521, 135, 4, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2063148, 46569, 486, 13, 31, "Input"],
-Cell[2063637, 46584, 239, 5, 30, "Output"]
+Cell[2062125, 46530, 408, 11, 31, "Input"],
+Cell[2062536, 46543, 577, 21, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2063913, 46594, 234, 6, 31, "Input"],
-Cell[2064150, 46602, 136, 4, 30, "Output"]
+Cell[2063150, 46569, 486, 13, 31, "Input"],
+Cell[2063639, 46584, 239, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2064323, 46611, 413, 12, 31, "Input"],
-Cell[2064739, 46625, 188, 4, 30, "Output"]
+Cell[2063915, 46594, 234, 6, 31, "Input"],
+Cell[2064152, 46602, 136, 4, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2064964, 46634, 240, 6, 31, "Input"],
-Cell[2065207, 46642, 158, 5, 30, "Output"]
+Cell[2064325, 46611, 413, 12, 31, "Input"],
+Cell[2064741, 46625, 188, 4, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2065402, 46652, 878, 26, 33, "Input"],
-Cell[2066283, 46680, 365, 11, 33, "Output"]
+Cell[2064966, 46634, 240, 6, 31, "Input"],
+Cell[2065209, 46642, 158, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2066685, 46696, 384, 12, 33, "Input"],
-Cell[2067072, 46710, 176, 4, 30, "Output"]
+Cell[2065404, 46652, 878, 26, 33, "Input"],
+Cell[2066285, 46680, 365, 11, 33, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2067285, 46719, 198, 4, 31, "Input"],
-Cell[2067486, 46725, 607, 10, 30, "Output"]
+Cell[2066687, 46696, 384, 12, 33, "Input"],
+Cell[2067074, 46710, 176, 4, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2068130, 46740, 212, 5, 31, "Input"],
-Cell[2068345, 46747, 1728, 24, 50, "Output"]
+Cell[2067287, 46719, 198, 4, 31, "Input"],
+Cell[2067488, 46725, 607, 10, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2070110, 46776, 212, 5, 31, "Input"],
-Cell[2070325, 46783, 907, 14, 30, "Output"]
+Cell[2068132, 46740, 212, 5, 31, "Input"],
+Cell[2068347, 46747, 1728, 24, 50, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2071269, 46802, 238, 5, 31, "Input"],
-Cell[2071510, 46809, 560, 9, 30, "Output"]
+Cell[2070112, 46776, 212, 5, 31, "Input"],
+Cell[2070327, 46783, 907, 14, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2072107, 46823, 212, 5, 31, "Input"],
-Cell[2072322, 46830, 315, 6, 30, "Output"]
+Cell[2071271, 46802, 238, 5, 31, "Input"],
+Cell[2071512, 46809, 560, 9, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2072674, 46841, 237, 5, 31, "Input"],
-Cell[2072914, 46848, 201, 5, 30, "Output"]
+Cell[2072109, 46823, 212, 5, 31, "Input"],
+Cell[2072324, 46830, 315, 6, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2073152, 46858, 513, 16, 33, "Input"],
-Cell[2073668, 46876, 704, 11, 30, "Output"]
+Cell[2072676, 46841, 237, 5, 31, "Input"],
+Cell[2072916, 46848, 201, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2074409, 46892, 212, 5, 31, "Input"],
-Cell[2074624, 46899, 107, 1, 30, "Output"]
+Cell[2073154, 46858, 513, 16, 33, "Input"],
+Cell[2073670, 46876, 704, 11, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2074768, 46905, 154, 3, 31, "Input"],
-Cell[2074925, 46910, 6750, 89, 202, "Output"]
+Cell[2074411, 46892, 212, 5, 31, "Input"],
+Cell[2074626, 46899, 107, 1, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2081712, 47004, 505, 12, 31, "Input"],
-Cell[2082220, 47018, 235399, 5339, 130, "Output"]
+Cell[2074770, 46905, 154, 3, 31, "Input"],
+Cell[2074927, 46910, 6750, 89, 202, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2317656, 52362, 423, 7, 31, "Input"],
-Cell[2318082, 52371, 233073, 6086, 2032, 201090, 5560, "CachedBoxData", \
-"BoxData", "Output"]
+Cell[2081714, 47004, 505, 12, 31, "Input"],
+Cell[2082222, 47018, 235399, 5339, 130, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2551192, 58462, 361, 10, 31, "Input"],
-Cell[2551556, 58474, 224544, 5390, 130, "Output"]
+Cell[2317658, 52362, 423, 7, 31, "Input"],
+Cell[2318084, 52371, 201436, 5565, 4340, "Output"]
+}, Open  ]],
+Cell[2519535, 57939, 181, 3, 31, "Input"],
+Cell[2519719, 57944, 55006, 1994, 292, InheritFromParent],
+Cell[CellGroupData[{
+Cell[2574750, 59942, 9381, 326, 52, "Input"],
+Cell[2584134, 60270, 302, 5, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2776137, 63869, 389, 6, 31, "Input"],
-Cell[2776529, 63877, 66719, 1853, 1570, "Output"]
+Cell[2584473, 60280, 361, 10, 31, "Input"],
+Cell[2584837, 60292, 224544, 5390, 130, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2843285, 65735, 379, 10, 31, "Input"],
-Cell[2843667, 65747, 118145, 2691, 130, "Output"]
+Cell[2809418, 65687, 389, 6, 31, "Input"],
+Cell[2809810, 65695, 66719, 1853, 1570, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2961849, 68443, 298, 7, 31, "Input"],
-Cell[2962150, 68452, 22034, 563, 233, "Output"]
+Cell[2876566, 67553, 379, 10, 31, "Input"],
+Cell[2876948, 67565, 118145, 2691, 130, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2995130, 70261, 298, 7, 31, "Input"],
+Cell[2995431, 70270, 22034, 563, 233, "Output"]
 }, Open  ]]
 }, Open  ]]
 }
