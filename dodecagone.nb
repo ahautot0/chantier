@@ -1,0 +1,406 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 8.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[     13490,        397]
+NotebookOptionsPosition[     13169,        381]
+NotebookOutlinePosition[     13515,        396]
+CellTagsIndexPosition[     13472,        393]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"Graphics", "[", 
+  RowBox[{"{", 
+   RowBox[{"LightGray", ",", 
+    RowBox[{"Polygon", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         FractionBox[
+          SqrtBox["3"], "2"], ",", 
+         FractionBox["1", "2"]}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         FractionBox["1", "2"], ",", 
+         FractionBox[
+          SqrtBox["3"], "2"]}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"0", ",", "1"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"-", 
+          FractionBox["1", "2"]}], ",", 
+         FractionBox[
+          SqrtBox["3"], "2"]}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"-", 
+          FractionBox[
+           SqrtBox["3"], "2"]}], ",", 
+         FractionBox["1", "2"]}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"-", "1"}], ",", "0"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"-", 
+          FractionBox[
+           SqrtBox["3"], "2"]}], ",", 
+         RowBox[{"-", 
+          FractionBox["1", "2"]}]}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"-", 
+          FractionBox["1", "2"]}], ",", 
+         RowBox[{"-", 
+          FractionBox[
+           SqrtBox["3"], "2"]}]}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"0", ",", 
+         RowBox[{"-", "1"}]}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         FractionBox["1", "2"], ",", 
+         RowBox[{"-", 
+          FractionBox[
+           SqrtBox["3"], "2"]}]}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         FractionBox[
+          SqrtBox["3"], "2"], ",", 
+         RowBox[{"-", 
+          FractionBox["1", "2"]}]}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"1", ",", "0"}], "}"}]}], "}"}], "]"}], ",", "Black", ",", 
+    RowBox[{"Line", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         FractionBox[
+          SqrtBox["3"], "2"], ",", 
+         FractionBox["1", "2"]}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"-", 
+          FractionBox[
+           SqrtBox["3"], "2"]}], ",", 
+         RowBox[{"-", 
+          FractionBox["1", "2"]}]}], "}"}]}], "}"}], "]"}], ",", 
+    RowBox[{"Line", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         FractionBox["1", "2"], ",", 
+         FractionBox[
+          SqrtBox["3"], "2"]}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"-", 
+          FractionBox["1", "2"]}], ",", 
+         RowBox[{"-", 
+          FractionBox[
+           SqrtBox["3"], "2"]}]}], "}"}]}], "}"}], "]"}], ",", 
+    RowBox[{"Line", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{"0", ",", "1"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"0", ",", 
+         RowBox[{"-", "1"}]}], "}"}]}], "}"}], "]"}], ",", 
+    RowBox[{"Line", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"-", 
+          FractionBox["1", "2"]}], ",", 
+         FractionBox[
+          SqrtBox["3"], "2"]}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         FractionBox["1", "2"], ",", 
+         RowBox[{"-", 
+          FractionBox[
+           SqrtBox["3"], "2"]}]}], "}"}]}], "}"}], "]"}], ",", 
+    RowBox[{"Line", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"-", 
+          FractionBox[
+           SqrtBox["3"], "2"]}], ",", 
+         FractionBox["1", "2"]}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         FractionBox[
+          SqrtBox["3"], "2"], ",", 
+         RowBox[{"-", 
+          FractionBox["1", "2"]}]}], "}"}]}], "}"}], "]"}], ",", 
+    RowBox[{"Line", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"-", "1"}], ",", "0"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"1", ",", "0"}], "}"}]}], "}"}], "]"}], ",", "Thick", ",", 
+    RowBox[{"Line", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{"0", ",", "1"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"0", ",", 
+         RowBox[{"-", "1"}]}], "}"}]}], "}"}], "]"}], ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Vue", ",", "Bold", ",", "Medium"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"-", "0.15"}], ",", "0.6"}], "}"}]}], "]"}], ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Ou\[IDoubleDot]e", ",", "Bold", ",", "Medium"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"0.15", ",", "0.6"}], "}"}]}], "]"}], ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Espace", ",", "Bold", ",", "Medium"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"-", "0.42"}], ",", "0.4"}], "}"}]}], "]"}], ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Temps", ",", "Bold", ",", "Medium"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"0.42", ",", "0.4"}], "}"}]}], "]"}], " ", ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Imm\[EAcute]diat", ",", "Bold", ",", "Medium"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"-", "0.6"}], ",", "0.15"}], "}"}]}], "]"}], ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Diff\[EAcute]r\[EAcute]", ",", "Bold", ",", "Medium"}], "]"}],
+       ",", 
+      RowBox[{"{", 
+       RowBox[{"0.6", ",", "0.15"}], "}"}]}], "]"}], " ", ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Mat\[EAcute]riel", ",", "Bold", ",", "Medium"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"-", "0.6"}], ",", 
+        RowBox[{"-", "0.15"}]}], "}"}]}], "]"}], ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Immat\[EAcute]riel", ",", "Bold", ",", "Medium"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"0.6", ",", 
+        RowBox[{"-", "0.15"}]}], "}"}]}], "]"}], " ", ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Expression", ",", "Bold", ",", "Medium"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"-", "0.45"}], ",", 
+        RowBox[{"-", "0.42"}]}], "}"}]}], "]"}], ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Emotion", ",", "Bold", ",", "Medium"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"0.45", ",", 
+        RowBox[{"-", "0.42"}]}], "}"}]}], "]"}], " ", ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Instinct", ",", "Bold", ",", "Medium"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"-", "0.18"}], ",", 
+        RowBox[{"-", "0.64"}]}], "}"}]}], "]"}], ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Education", ",", "Bold", ",", "Medium"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"0.18", ",", 
+        RowBox[{"-", "0.64"}]}], "}"}]}], "]"}], " ", ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Peinture", ",", "Bold", ",", 
+        RowBox[{"FontSize", "\[Rule]", "16"}]}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"-", "0.85"}], ",", "0.8"}], "}"}]}], "]"}], ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{
+      RowBox[{"Style", "[", 
+       RowBox[{"Musique", ",", "Bold", ",", 
+        RowBox[{"FontSize", "\[Rule]", "16"}]}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"0.85", ",", "0.8"}], "}"}]}], "]"}]}], "}"}], "]"}]], "Input",
+ CellChangeTimes->CompressedData["
+1:eJxTTMoPSmViYGAQBWIQbfVt1Yb1LG8cxT/sBNO91+dtAdFhZxN2gOjZJu/3
+g+i+/ysOgmhtjd+XQfQixS3XQfTDVKUXINpA+SiYniDR8QZE73g09SuITrpx
+5zeITus4J7wBJH5xlw6Ifi8Rbwyik1RL7EF0jf4ZRxAt3XPaFUTPPzPPHUTf
+/yLrA6LZwnijQfSL6AfxIPqNXUcRiPa8pVYOomVM+npBdBEjwxIQ/ZOjYg2I
+/vNh8kYQ/eTYvAMg2mutwFkQPenPrpsgmu9oK9NGIO2sbs8KolmPTxUG0e96
+zoiD6Fvf+FRuAukPfVs1QPS39yaJINopZm4SiH7u1JIGok95d+SAaACSiap7
+
+  "]],
+
+Cell[BoxData[
+ GraphicsBox[{
+   {GrayLevel[0.85], 
+    PolygonBox[
+     NCache[{{Rational[1, 2] 3^Rational[1, 2], Rational[1, 2]}, {
+       Rational[1, 2], Rational[1, 2] 3^Rational[1, 2]}, {0, 1}, {
+       Rational[-1, 2], Rational[1, 2] 3^Rational[1, 2]}, {
+       Rational[-1, 2] 3^Rational[1, 2], Rational[1, 2]}, {-1, 0}, {
+       Rational[-1, 2] 3^Rational[1, 2], Rational[-1, 2]}, {
+       Rational[-1, 2], Rational[-1, 2] 3^Rational[1, 2]}, {0, -1}, {
+       Rational[1, 2], Rational[-1, 2] 3^Rational[1, 2]}, {
+       Rational[1, 2] 3^Rational[1, 2], Rational[-1, 2]}, {1, 0}}, {{
+       0.8660254037844386, 0.5}, {0.5, 0.8660254037844386}, {0, 1}, {-0.5, 
+       0.8660254037844386}, {-0.8660254037844386, 0.5}, {-1, 
+       0}, {-0.8660254037844386, -0.5}, {-0.5, -0.8660254037844386}, {
+       0, -1}, {0.5, -0.8660254037844386}, {0.8660254037844386, -0.5}, {1, 
+       0}}]]}, 
+   {GrayLevel[0], 
+    LineBox[NCache[{{Rational[1, 2] 3^Rational[1, 2], Rational[1, 2]}, {
+       Rational[-1, 2] 3^Rational[1, 2], Rational[-1, 2]}}, {{
+      0.8660254037844386, 0.5}, {-0.8660254037844386, -0.5}}]], 
+    LineBox[NCache[{{Rational[1, 2], Rational[1, 2] 3^Rational[1, 2]}, {
+       Rational[-1, 2], Rational[-1, 2] 3^Rational[1, 2]}}, {{0.5, 
+      0.8660254037844386}, {-0.5, -0.8660254037844386}}]], 
+    LineBox[{{0, 1}, {0, -1}}], 
+    LineBox[NCache[{{Rational[-1, 2], Rational[1, 2] 3^Rational[1, 2]}, {
+       Rational[1, 2], Rational[-1, 2] 3^Rational[1, 2]}}, {{-0.5, 
+      0.8660254037844386}, {0.5, -0.8660254037844386}}]], 
+    LineBox[NCache[{{Rational[-1, 2] 3^Rational[1, 2], Rational[1, 2]}, {
+       Rational[1, 2] 3^Rational[1, 2], 
+        Rational[-1, 2]}}, {{-0.8660254037844386, 0.5}, {
+      0.8660254037844386, -0.5}}]], LineBox[{{-1, 0}, {1, 0}}], 
+    {Thickness[Large], LineBox[{{0, 1}, {0, -1}}], InsetBox[
+      StyleBox["Vue",
+       StripOnInput->False,
+       FontSize->Medium,
+       FontWeight->Bold], {-0.15, 0.6}], InsetBox[
+      StyleBox["Ou\[IDoubleDot]e",
+       StripOnInput->False,
+       FontSize->Medium,
+       FontWeight->Bold], {0.15, 0.6}], InsetBox[
+      StyleBox["Espace",
+       StripOnInput->False,
+       FontSize->Medium,
+       FontWeight->Bold], {-0.42, 0.4}], InsetBox[
+      StyleBox["Temps",
+       StripOnInput->False,
+       FontSize->Medium,
+       FontWeight->Bold], {0.42, 0.4}], InsetBox[
+      StyleBox["Imm\[EAcute]diat",
+       StripOnInput->False,
+       FontSize->Medium,
+       FontWeight->Bold], {-0.6, 0.15}], InsetBox[
+      StyleBox["Diff\[EAcute]r\[EAcute]",
+       StripOnInput->False,
+       FontSize->Medium,
+       FontWeight->Bold], {0.6, 0.15}], InsetBox[
+      StyleBox["Mat\[EAcute]riel",
+       StripOnInput->False,
+       FontSize->Medium,
+       FontWeight->Bold], {-0.6, -0.15}], InsetBox[
+      StyleBox["Immat\[EAcute]riel",
+       StripOnInput->False,
+       FontSize->Medium,
+       FontWeight->Bold], {0.6, -0.15}], InsetBox[
+      StyleBox["Expression",
+       StripOnInput->False,
+       FontSize->Medium,
+       FontWeight->Bold], {-0.45, -0.42}], InsetBox[
+      StyleBox["Emotion",
+       StripOnInput->False,
+       FontSize->Medium,
+       FontWeight->Bold], {0.45, -0.42}], InsetBox[
+      StyleBox["Instinct",
+       StripOnInput->False,
+       FontSize->Medium,
+       FontWeight->Bold], {-0.18, -0.64}], InsetBox[
+      StyleBox["Education",
+       StripOnInput->False,
+       FontSize->Medium,
+       FontWeight->Bold], {0.18, -0.64}], InsetBox[
+      StyleBox["Peinture",
+       StripOnInput->False,
+       FontSize->16,
+       FontWeight->Bold], {-0.85, 0.8}], InsetBox[
+      StyleBox["Musique",
+       StripOnInput->False,
+       FontSize->16,
+       FontWeight->Bold], {0.85, 0.8}]}}}]], "Output",
+ CellChangeTimes->{{3.7605545429068537`*^9, 3.7605545575240793`*^9}, 
+   3.7605546215153913`*^9, {3.7605546933691177`*^9, 3.760554713259153*^9}, 
+   3.7605548001981053`*^9, 3.7605548594470096`*^9, {3.760554965106995*^9, 
+   3.760555017835088*^9}, {3.760555095134224*^9, 3.7605551172082624`*^9}, 
+   3.760555365529498*^9, {3.760555449520046*^9, 3.7605554691760807`*^9}, {
+   3.7605555087533503`*^9, 3.76055552571058*^9}, {3.760555629169962*^9, 
+   3.7605557267325325`*^9}, 3.760556075159145*^9, 3.7605561924713507`*^9, 
+   3.7605562228290043`*^9, {3.7606382571752625`*^9, 3.7606382807157035`*^9}, 
+   3.7606387416351132`*^9, {3.7606387746759715`*^9, 3.7606388212732534`*^9}}]
+}, Open  ]]
+},
+WindowSize->{1537, 861},
+WindowMargins->{{61, Automatic}, {Automatic, -32}},
+FrontEndVersion->"8.0 for Microsoft Windows (64-bit) (November 7, 2010)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 8178, 257, 204, "Input"],
+Cell[8760, 281, 4393, 97, 374, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
